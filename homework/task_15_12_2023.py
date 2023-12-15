@@ -49,7 +49,7 @@ class Phonebook:
         else:
             print("Contact not found")
 
-# Пример использования
+
 phonebook = Phonebook('phonebook_storage.json')
 
 while True:
